@@ -1,0 +1,662 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"render_template	function"
+			],
+			[
+				"for",
+				"form	statement"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"w",
+				"wtf	module"
+			],
+			[
+				"f",
+				"from_object	function"
+			],
+			[
+				"title",
+				"title"
+			],
+			[
+				"add",
+				"add_recent_media	function"
+			],
+			[
+				"s",
+				"setattr	function"
+			],
+			[
+				"e",
+				"encode	function"
+			],
+			[
+				"med",
+				"media"
+			],
+			[
+				"in",
+				"index_insertion	statement"
+			],
+			[
+				"me",
+				"media"
+			],
+			[
+				"c",
+				"count_type"
+			],
+			[
+				"new",
+				"newDict	statement"
+			],
+			[
+				"index",
+				"index_insertion	statement"
+			],
+			[
+				"de",
+				"delete_many"
+			],
+			[
+				"pythin",
+				"python-instagram"
+			],
+			[
+				"media",
+				"media_id"
+			],
+			[
+				"m",
+				"media_insertion	statement"
+			],
+			[
+				"Fo",
+				"formatString	param"
+			],
+			[
+				"im",
+				"image_id	forstmt"
+			],
+			[
+				"i",
+				"image_data"
+			],
+			[
+				"cl",
+				"cleanList	function"
+			],
+			[
+				"ima",
+				"image_data	param"
+			],
+			[
+				"ime",
+				"image_data	param"
+			],
+			[
+				"is",
+				"is_media_in_database	function"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"push",
+				"push_users_who_liked_to_database"
+			],
+			[
+				"tag",
+				"tag_count	statement"
+			],
+			[
+				"t",
+				"try	Try/Except"
+			],
+			[
+				"db_s",
+				"db_statistic	statement"
+			],
+			[
+				"db",
+				"db	statement"
+			],
+			[
+				"fo",
+				"formatString"
+			],
+			[
+				"__",
+				"__name__ == '__main__':〔variable〕"
+			],
+			[
+				"li",
+				"listFunctions〔module〕"
+			],
+			[
+				"test",
+				"testStering〔variable〕"
+			],
+			[
+				"cre",
+				"createList〔function〕"
+			],
+			[
+				"tr",
+				"transformList"
+			],
+			[
+				"n",
+				"newList"
+			],
+			[
+				"get",
+				"getUserID	function"
+			],
+			[
+				"fin",
+				"find_one"
+			],
+			[
+				"acce",
+				"access_token	statement"
+			],
+			[
+				"acc",
+				"access_token	statement"
+			],
+			[
+				"In",
+				"InstagramAPI	import"
+			],
+			[
+				"ins",
+				"instagram"
+			],
+			[
+				"cli",
+				"client_secret	statement"
+			],
+			[
+				"colo",
+				"collection_names"
+			],
+			[
+				"cha",
+				"changeCredentials	statement"
+			],
+			[
+				"d",
+				"distinct"
+			],
+			[
+				"pymon",
+				"pymongo3"
+			],
+			[
+				"pymong",
+				"pymongo"
+			],
+			[
+				"unpa",
+				"updatedBalanceEachMonth	statement"
+			],
+			[
+				"mo",
+				"monthlyInterestRate	statement"
+			],
+			[
+				"cal",
+				"calculateFinalSum	function"
+			],
+			[
+				"su",
+				"suggestedLowestPayment	statement"
+			],
+			[
+				"ba",
+				"balance"
+			],
+			[
+				"mon",
+				"montlyUnpaidBalance"
+			],
+			[
+				"an",
+				"annualInterestRate	statement"
+			],
+			[
+				"tot",
+				"totalPaid"
+			],
+			[
+				"to",
+				"totalPaid	statement"
+			],
+			[
+				"mi",
+				"minimumMonthlyPayment	statement"
+			],
+			[
+				"lon",
+				"longest_string"
+			],
+			[
+				"a",
+				"ascii_lowercase"
+			],
+			[
+				"long",
+				"longest_string_temp"
+			],
+			[
+				"l",
+				"longest_string_temp"
+			],
+			[
+				"n_",
+				"n_check"
+			],
+			[
+				"lo",
+				"longest_string_temp〔variable〕"
+			],
+			[
+				"al",
+				"alphabeticalstring〔variable〕"
+			],
+			[
+				"i_",
+				"i_string"
+			],
+			[
+				"str",
+				"string_check〔argument〕"
+			],
+			[
+				"co",
+				"countingBob〔function〕"
+			],
+			[
+				"st",
+				"string_check"
+			],
+			[
+				"y",
+				"ylabel"
+			],
+			[
+				"face",
+				"faceCascade"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Virtualenv/Python + Virtualenv.sublime-build",
+					""
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 370.0,
+		"last_filter": "pa",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Disable Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"virt",
+				"Virtualenv: New"
+			],
+			[
+				"req",
+				"Set Syntax: requirements.txt"
+			],
+			[
+				"vi",
+				"Virtualenv: Activate"
+			],
+			[
+				"g",
+				"Git: Push"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sub",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"ac",
+				"Virtualenv: Activate"
+			],
+			[
+				"new",
+				"Virtualenv: New"
+			],
+			[
+				"",
+				"Build With: Python + Virtualenv"
+			],
+			[
+				"bui",
+				"Build With: Python + Virtualenv"
+			],
+			[
+				"act",
+				"Virtualenv: Activate"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"v",
+				"Virtualenv: Activate"
+			],
+			[
+				"virtu",
+				"Virtualenv: New"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 489.0
+	},
+	"console":
+	{
+		"height": 189.0,
+		"history":
+		[
+			"git",
+			"pip3",
+			"pip3 install pymongo",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/maximpanin/Yandex.Disk/projects/python/flask/app/templates/2.html",
+		"/Users/maximpanin/Yandex.Disk/projects/python/flask/app/templates/1.html",
+		"/Users/maximpanin/Yandex.Disk/projects/python/flask/app/forms.py",
+		"/Users/maximpanin/Yandex.Disk/projects/python/flask/app/views.py",
+		"/Users/maximpanin/Yandex.Disk/projects/python/flask/config.py",
+		"/Users/maximpanin/Yandex.Disk/projects/python/flask/app/templates/base.html",
+		"/Users/maximpanin/Yandex.Disk/projects/python/flask/app/templates/index.html",
+		"/Users/maximpanin/Yandex.Disk/projects/python/flask/run.py",
+		"/Users/maximpanin/Yandex.Disk/projects/python/flask/app/__init__.py",
+		"/Users/maximpanin/Yandex.Disk/projects/python/flask/app/templates/login.html",
+		"/Users/maximpanin/Yandex.Disk/projects/python/flask/flask.sublime-project",
+		"/Users/maximpanin/Yandex.Disk/projects/python/instagram_statistic/media_handler_functions.py",
+		"/Users/maximpanin/Yandex.Disk/projects/python/instagram_statistic/database_handler_functions.py",
+		"/Users/maximpanin/Yandex.Disk/projects/python/instagram_statistic/requirements.txt",
+		"/Users/maximpanin/Yandex.Disk/projects/python/instagram_statistic/instagram_statistic.py",
+		"/Users/maximpanin/Yandex.Disk/projects/python/instagram_statistic/instagram_statistic.sublime-project",
+		"/Users/maximpanin/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/maximpanin/Yandex.Disk/projects/python/instagram_statistic/listFunctions.py",
+		"/Users/maximpanin/Yandex.Disk/projects/python/instagram_statistic/misc/get_access_token.py",
+		"/Users/maximpanin/Yandex.Disk/projects/python/instagram_statistic/misc/access_token.misc",
+		"/Users/maximpanin/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/maximpanin/Library/Application Support/Sublime Text 3/Packages/User/Virtualenv.sublime-settings",
+		"/Users/maximpanin/Library/Application Support/Sublime Text 3/Packages/Virtualenv/Virtualenv.sublime-settings",
+		"/Users/maximpanin/Yandex.Disk/projects/pyhton/instagram_statistic/instagram_statistic.sublime-project",
+		"/Users/maximpanin/Yandex.Disk/projects/pyhton/instagram_statistic/instagram_statistic.py",
+		"/Users/maximpanin/Library/Application Support/Sublime Text 3/Packages/Virtualenv/README.md",
+		"/Users/maximpanin/Yandex.Disk/projects/pyhton/instagram_statistic/requirements.txt",
+		"/Users/maximpanin/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/maximpanin/Desktop/KeyMaker/KeyMaker-DVT/dvt.nfo",
+		"/Users/maximpanin/Yandex.Disk/projects/mitx6.00.1x/problemSet1/countingbobs.py",
+		"/Users/maximpanin/Yandex.Disk/projects/mitx6.00.1x/problemSet1/countingvowels.py",
+		"/Users/maximpanin/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/maximpanin/Yandex.Disk/projects/mitx6.00.1x/problemSet1/alphabeticalsting.py",
+		"/Users/maximpanin/Library/Application Support/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/Users/maximpanin/projects/machine learning/machine-learning-ex1/ex1/warmUpExercise.m",
+		"/Users/maximpanin/projects/machine learning/machine-learning-ex1/ex1/ex1.m",
+		"/Users/maximpanin/projects/machine learning/machine-learning-ex1/ex1/plotData.m",
+		"/Users/maximpanin/Yandex.Disk/projects/mitx6.00.1x/test/5c.py",
+		"/Users/maximpanin/Yandex.Disk/projects/mitx6.00.1x/problemSet1/countingbobs",
+		"/Users/maximpanin/projects/FaceDetect/face_detect.py",
+		"/Users/maximpanin/projects/WebcamFaceDetect/webcam_face_detect.py",
+		"/Users/maximpanin/projects/naxrevlis.com/fabfile.py",
+		"/Users/maximpanin/Downloads/lab1_word_count_student.py",
+		"/Users/maximpanin/projects/opencv/main.py",
+		"/Users/maximpanin/Library/Application Support/Sublime Text 3/Packages/Material-theme/README.md",
+		"/Users/maximpanin/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 161.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 180.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 92.0
+	},
+	"pinned_build_system": "",
+	"project": "countingvowels.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 855.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Yandex.Disk/projects/python/instagram_statistic/instagram_statistic.sublime-project"
+			]
+		],
+		"width": 1400.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
